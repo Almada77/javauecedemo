@@ -1,6 +1,8 @@
-package ativ3;
+package persistencia;
 
 import java.util.List;
+
+import negocio.Tarefa;
 
 public interface Repositorio {//Porta de Saída
     void salvarTarefa(Tarefa tarefa);

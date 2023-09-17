@@ -1,9 +1,9 @@
-package ativ3;
 
-import ativ3.Interface;
-import ativ3.Servico;
-import ativ3.Repositorio;
-import ativ3.RepositorioJdbc;
+
+import apresentacao.Interface;
+import negocio.Servico;
+import persistencia.Repositorio;
+import persistencia.RepositorioJdbc;
 
 public class AgendaContato {
 	

@@ -1,9 +1,9 @@
-package ativ3;
+package negocio;
 
 import java.util.List;
 import java.util.Scanner;
 
-import ativ3.Repositorio;
+import persistencia.Repositorio;
 
 public class Servico {
 

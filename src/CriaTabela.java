@@ -1,7 +1,7 @@
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import ativ3.Conexao;
+import persistencia.Conexao;
 
 public class CriaTabela {
 	public static void main(String[] args) {

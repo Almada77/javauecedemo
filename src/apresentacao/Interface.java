@@ -1,11 +1,11 @@
-package ativ3;
+package apresentacao;
 
 import java.util.List;
 import java.util.Scanner;
 
-import ativ3.Tarefa;
-import ativ3.Servico;
-import ativ3.Repositorio;
+import negocio.Servico;
+import negocio.Tarefa;
+import persistencia.Repositorio;
 
 public class Interface {
 	

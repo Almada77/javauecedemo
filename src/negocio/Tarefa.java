@@ -1,4 +1,4 @@
-package ativ3;
+package negocio;
 
 public class Tarefa {
     private int id;

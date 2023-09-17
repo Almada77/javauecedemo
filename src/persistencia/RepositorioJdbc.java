@@ -1,4 +1,4 @@
-package ativ3;
+package persistencia;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import ativ3.Tarefa;
+import negocio.Tarefa;
 
 /**
  * Implementação da Porta de Saída, no caso saída para o banco de dados
